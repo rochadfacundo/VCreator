@@ -1,0 +1,60 @@
+# ======================================
+# DEPENDENCIAS
+# ======================================
+
+node_modules/
+.venv/
+venv/
+
+# ======================================
+# ARCHIVOS GENERADOS
+# ======================================
+
+dist/
+build/
+out/
+output/
+*.prepared.json
+*.cache.json
+*.tsbuildinfo
+
+# ======================================
+# RECURSOS MULTIMEDIA
+# ======================================
+
+public/
+
+# ======================================
+# VARIABLES DE ENTORNO Y CREDENCIALES
+# ======================================
+
+.env
+.env.*
+!.env.example
+
+# ======================================
+# PYTHON
+# ======================================
+
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# ======================================
+# LOGS Y ARCHIVOS TEMPORALES
+# ======================================
+
+*.log
+.tmp/
+temp/
+.cache/
+npm-debug.log*
+
+# ======================================
+# EDITORES Y SISTEMA OPERATIVO
+# ======================================
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

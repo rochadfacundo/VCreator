@@ -1,0 +1,67 @@
+{
+    "id": "greetings",
+    "title": "The Teacher's Greeting Challenge",
+    "language": "en-US",
+    "video": {
+      "width": 1920,
+      "height": 1080,
+      "fps": 30
+    },
+    "narrator": {
+      "voice": "en-US-ChristopherNeural",
+      "rate": "-10%",
+      "pitch": "-10Hz"
+    },
+  "music": {
+    "enabled": true,
+    "file": "music/Morning Mandolin - Chris Haugen.mp3",
+    "volume": 0.20,
+    "loop": true,
+    "fadeInSeconds": 2,
+    "fadeOutSeconds": 3
+  },
+    "scenes": [
+      {
+        "id": 1,
+        "image": "images/1.jpg",
+        "audio": "audio/greetings/scene-1.mp3",
+        "text": "It was Monday morning. Nick, Tin, and Fax walked into their classroom. \"Good morning, Miss Wilson!\" said the boys. \"Good morning, everyone!\" replied their teacher."
+      },
+      {
+        "id": 2,
+        "image": "images/2.jpg",
+        "audio": "audio/greetings/scene-2.mp3",
+        "text": "The boys sat down at their desks. Miss Wilson smiled. \"Today, we are going to learn different ways to greet people in English.\""
+      },
+      {
+        "id": 3,
+        "image": "images/3.jpg",
+        "audio": "audio/greetings/scene-3.mp3",
+        "text": "The three boys raised their hands excitedly. They already knew some English greetings. Together, they shared three examples: Hello! Hi! Hey!"
+      },
+      {
+        "id": 4,
+        "image": "images/4.jpg",
+        "audio": "audio/greetings/scene-4.mp3",
+        "text": "\"Very good!\" said Miss Wilson. \"We can also say good morning, good afternoon, and good evening. But greetings can also be questions!\""
+      },
+      {
+        "id": 5,
+        "image": "images/5.jpg",
+        "audio": "audio/greetings/scene-5.mp3",
+        "text": "Fax quickly raised his hand. \"I know some!\" he said excitedly. Miss Wilson smiled. \"Go ahead, Fax!\""
+      },
+      {
+        "id": 6,
+        "image": "images/6.jpg",
+        "audio": "audio/greetings/scene-6.mp3",
+        "text": "Fax stood up and started speaking. \"How are you? How's it going? What's up? And when we meet someone for the first time, we can say: Nice to meet you!\""
+      },
+      {
+        "id": 7,
+        "image": "images/7.jpg",
+        "audio": "audio/greetings/scene-7.mp3",
+        "text": "Miss Wilson gave Fax a thumbs-up. \"Excellent, Fax! Well done, everyone!\" The boys had learned ten different English greetings. Learning English was easier and more fun when they did it together."
+      }
+    ]
+  }
